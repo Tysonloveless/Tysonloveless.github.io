@@ -1,86 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyson Lovless
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Marketer, SEO Enthusiest, BYU-I Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="">984-202-1231</a>
+| <a href="linkedin.com/in/tyson-loveless-853629204/">LinkedIn Profile</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Bachelor Business Management - Marketing \
+*Brigham Young University - Idaho* \
+Minor: Data Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Related Courses: Integrated Digital Marketing, Web Business Creation, SEO, Content Creation, Account Management
 
-- Sizar
+## Skills & Technical Competencies
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+SEO, Google Ads, Looker Studio, Account Management, Python, Google \ Analytics, Microsoft Excel, Meta Ads, Hubspot Digital Marketing 
 
 
+## Experience 
+### Collections Clerk                                    
+*Madisonhealth* - Rexburg \
+Oct 2024 - Current
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Worked over 1,000 accounts in contacting, managing, and problem solving.
+- Responsible for collecting on accounts that totaled over $900,000 for the business.
+- Aided in creating guides and resources to be used in training new employees. 
 
 
-## Occupation
+### Project Coordinator                                 
+*The Occasions Group - Taylor Corp*	- Rexburg \
+Oct 2022 - April 2023
 
-`1600`
-__Royal Mint__, London
+- Worked alongside management in closing a clients account and the relocation of their product.
+- Utilized Excel to track and report data on the progress of the project.  
+- Managed over a dozen people in carrying out the project. 
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Student Consultant, Small Business Management          
+*Brigham Young University – Idaho* - Rexburg \
+June - July 2023
+
+- Member of a student team that consulted VitaLife Infusions, a small business in Idaho.
+- Researched and analyzed why customers weren’t returning to increase retention. 
+- Created a survey, pamphlets, and an infographic to keep customers informed. 
+
+
+## Volunteer Experience
+
+### Content Creation                                
+*JustServe* - Southwest US \
+March 2024 – June 2024 
+
+- Created marketing content for JustServe, gaining traction and engagement with thousands of likes and shares. 
+- Drove traffic to their app, increasing usage and activity in local service projects.
+- Analyzed performance and opportunities for growth and development. 
+
+
+### Full-time Service Missionary                        
+*The Church of Jesus Christ of Latter-day Saints* - Puebla, Mexico \ 
+July 2018 – May 2020
+
+- Served in 2 leadership positions over a span of 10 months within 3 different areas in training and leading up to 4 groups of missionaries
+- Obtained conversational fluency in Spanish within six months
+- Performed 10 hours a day, 6 days a week, excluding 3 hours of study and preparation
 
 
 
